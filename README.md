@@ -12,7 +12,7 @@
 Hacktoberfest adalah acara tahunan untuk berkontribusi pada proyek open source yang diselenggarakan oleh DEV, Intel, dan Digital Ocean. Acara ini mengajak siapa saja yang peduli dan ingin untuk berkontribusi pada proyek open source di Github.
 
 ## Aturan dan Hadiah
-Pertama, daftar di situs Hacktoberfest di https://hacktoberfest.digitalocean.com. Untuk memenuhi syarat untuk t-shirt Hacktoberfest edisi terbatas resmi, Anda harus mendaftar dan membuat empat permintaan pull request antara 1-31 Oktober. Permintaan pull request dapat ke repo publik apa pun di GitHub, bukan hanya yang berlabel Hacktoberfest. Jika seorang tim ada yang melaporkan permintaan pull request anda sebagai perilaku spam, atau tidak sejalan dengan kode etik proyek, anda tidak akan memenuhi syarat untuk berpartisipasi.
+Pertama, daftar di situs Hacktoberfest di https://hacktoberfest.digitalocean.com. Untuk memenuhi syarat untuk t-shirt Hacktoberfest edisi terbatas resmi, Anda harus mendaftar dan membuat empat permintaan pull request antara 1-31 Oktober. Permintaan pull request dapat ke repo publik yang berlabel ‘hacktoberfest-accepted’ atau bertopik [hacktoberfest](https://github.com/topics/hacktoberfest). Jika seorang tim ada yang melaporkan permintaan pull request anda sebagai perilaku spam, atau tidak sejalan dengan kode etik proyek, anda tidak akan memenuhi syarat untuk berpartisipasi.
 Terhubung dengan peserta Hacktoberfest lainnya dengan menggunakan @DigitalOcean, @hacktoberfest, #hacktoberfest di platform media sosial.
 Baru menggunakan DigitalOcean? hadiah USD $100 dalam kredit infrastruktur di https://do.co/hacktoberfest100.
 
